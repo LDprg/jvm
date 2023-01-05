@@ -1,3 +1,7 @@
+# THIS PROJECT IS NO LONGER MAINTAINED BY ME
+# Please use my tool [jem](https://github.com/LDprg/JEM) (Java Environment Manager) instead
+# or the original [jvm](https://github.com/wsingleton/jvm) (Java Version Manager) repo
+
 # `JVM` (Java Version Manager)
 
 A simple command line tool for installing and switching between JDK versions.
